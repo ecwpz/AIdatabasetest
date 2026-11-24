@@ -1,0 +1,11 @@
+restaurant_id,restaurant_name,location,cuisine_type,rating,price_range
+1,The Gourmet Spot,New York,Italian,4.5,$$$
+2,Sushi Haven,San Francisco,Japanese,4.8,$$$$
+3,Burger Bliss,Chicago,American,4.2,$$
+4,Spice Symphony,Los Angeles,Indian,4.6,$$$
+5,Green Garden,Seattle,Vegan,4.3,$$
+6,La Fiesta,Miami,Mexican,4.7,$$$
+7,Dragon's Delight,Houston,Chinese,4.4,$$
+8,Ocean's Catch,Boston,Seafood,4.9,$$$$
+9,The Breakfast Nook,Denver,American,4.1,$
+10,Urban Eats,Austin,Fusion,4.5,$$$

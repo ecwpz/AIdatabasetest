@@ -2,7 +2,7 @@
 
 Write one user story in [IDEA.md](../IDEA.md), a question your app helps someone answer:
 
-> **As a** ___ (who), **I need to** ___ (what), **so that** ___ (why).
+> **As a college student, **I need to** see affordable places to eat, **so that** I can eat within my budget.
 
 For example: *As a student in a band, I need to see which songs I've practiced least this month, so that I spend practice time where it matters.*
 
